@@ -1,6 +1,6 @@
 # Working directory
 
-- cleArea where all our files and directories and changes are living all the time
+- Area where all our files and directories and changes are living all the time
 
 # Staging Area
 
